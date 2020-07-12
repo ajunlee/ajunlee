@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🔭 I’m currently working on "A company"
-- 🌱 I’m currently learning "how to test"
+- 🔭 I’m currently working on something
+- 🌱 I’m currently learning something too...
